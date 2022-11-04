@@ -2,5 +2,6 @@
 <h5 align ="center">:books: Tech Stack :books:</h5>
 <h6 align ="center">:sparkles: Platforms & Languages :sparkles:</h6>
 <div align="center">
-<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=for-the-badge&logo=java&logoColor=white">
 </div>
