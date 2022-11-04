@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=The%20App&fontSize=60&fontAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&descAlign=50&section=header&text=The%20App&fontSize=60&fontAlign=50" />
 
 <p align ="center">:books: Tech Stack :books:</p>
 <div align="center">
