@@ -7,7 +7,7 @@ Cha Kyungjun
 <p>
     <code>
     	<img height="20" 
-        src="http://www.w3.org/2000/svg" 
+        src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Text-xml.svg" 
         style="max-width: 100%;">
      </code>
   </p>
