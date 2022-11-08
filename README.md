@@ -3,6 +3,27 @@
 # 2022-2 Team Project
 BaekSeok University Final Project
 
+Cha Kyungjun 
+<p>
+    <code>
+    	<img height="20" 
+        src="http://www.w3.org/2000/svg" 
+        style="max-width: 100%;">
+     </code>
+  </p>
+
+
+Cha Gwanho
+
+
+Jung Woojin
+
+
+Kim Junghyun
+
+
+Song Gyunghun
+
 ## Description
 used receipt image to dutch pay
 
