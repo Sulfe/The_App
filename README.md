@@ -35,3 +35,5 @@ used receipt image to dutch pay
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white">
   <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=for-the-badge&logo=AndroidStudio&logoColor=white">
 
+### References
+https://palab.tistory.com/category/Android%20Studio/Tip
