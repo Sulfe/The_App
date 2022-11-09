@@ -5,24 +5,31 @@ BaekSeok University Final Project
 
 Cha Kyungjun 
 <p>
-    <code>
-    	<img height="20" 
-        src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Text-xml.svg" 
-        style="max-width: 100%;">
-     </code>
-  </p>
+<img src="https://img.shields.io/badge/Xml-E53525?style=for-the-badge&logo=Xml&logoColor=white">
+</p>
 
 
 Cha Gwanho
-
+<p>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white">
+</p>
 
 Jung Woojin
-
+<p>
+<img src="https://img.shields.io/badge/Google Cloud-4285F4?style=for-the-badge&logo=Google Cloud&logoColor=white">
+<img src="https://img.shields.io/badge/Java-EC6237?style=for-the-badge&logo=Java&logoColor=white">
+</p>
 
 Kim Junghyun
-
+<p>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white">
+</p>
 
 Song Gyunghun
+<p>
+<img src="https://img.shields.io/badge/Google Cloud-4285F4?style=for-the-badge&logo=Google Cloud&logoColor=white">
+<img src="https://img.shields.io/badge/Java-EC6237?style=for-the-badge&logo=Java&logoColor=white">
+</p>
 
 ## Description
 used receipt image to dutch pay
